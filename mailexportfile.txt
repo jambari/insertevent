@@ -1,0 +1,67 @@
+Event:
+    Public ID              bmkg2024hmol
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2024-04-17
+    Time                   23:08:35.9  +/-    0.2 s
+    Latitude                -1.47 deg  +/-      3 km
+    Longitude              134.41 deg  +/-      1 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             2.15 s
+    Azimuthal gap             112 deg
+
+2 Network magnitudes:
+    MLv       3.78 +/- 0.15  10            
+    M         3.78           10 preferred  
+
+31 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RKPI  IA    0.2 260  P       11:40:40.6  -1.2 A  1.0  RKPI 
+    RKPI  IA    0.2 260  Pg      11:40:41.0   0.2 M  1.0  RKPI 
+    RKPI  IA    0.2 260  S       11:40:45.5  -0.6 M  1.0  RKPI 
+    ANAPI IA    0.5 286  P       11:40:45.6  -1.1 A  1.0  ANAPI
+    ANAPI IA    0.5 286  Pg      11:40:46.3   0.2 M  1.0  ANAPI
+    ANAPI IA    0.5 286  S       11:40:53.6  -0.9 M  1.0  ANAPI
+    MBPI  IA    0.9 230  P       11:40:55.3   2.4 A  1.0  MBPI 
+    MBPI  IA    0.9 230  Pg      11:40:55.0   2.1 M  1.0  MBPI 
+    SWPM  IA    1.1 309  P       11:40:56.3   0.5 A  1.0  SWPM 
+    SWPM  IA    1.1 309  Pg      11:40:55.5  -0.7 M  1.0  SWPM 
+    IWPI  IA    1.3 175  P       11:40:56.4  -2.9 A  1.0  IWPI 
+    IWPI  IA    1.3 175  Pg      11:40:56.5  -4.0 M  1.0  IWPI 
+    BATPI IA    1.4 222  P       11:41:03.6   2.0 A  1.0  BATPI
+    BATPI IA    1.4 222  Pg      11:41:03.0  -0.5 M  1.0  BATPI
+    SUSPI IA    1.5  61  P       11:41:04.2   1.5 A  1.0  SUSPI
+    SUSPI IA    1.5  61  Pg      11:41:02.3  -2.6 M  1.0  SUSPI
+    BAKI  IA    1.7  81  P       11:41:06.9   1.2 A  1.0  BAKI 
+    BAKI  IA    1.7  81  Pg      11:41:07.2  -1.7 M  1.0  BAKI 
+    SRPI  IA    1.9 102  P       11:41:12.5   4.5 A  1.0  SRPI 
+    SRPI  IA    1.9 102  Pg      11:41:10.2  -1.6 M  1.0  SRPI 
+    WWPI  IA    2.1 113  P       11:41:16.1   4.5 A  1.0  WWPI 
+    WWPI  IA    2.1 113  Pg      11:41:13.8  -3.1 M  1.0  WWPI 
+    WANPI IA    2.2 154  P       11:41:12.6   0.6 A  1.0  WANPI
+    WANPI IA    2.2 154  Pg      11:41:11.8  -5.6 MX 0.0  WANPI
+    UWNPI IA    2.3 150  P       11:41:15.0   1.0 A  1.0  UWNPI
+    UWNPI IA    2.3 150  Pg      11:41:15.4  -4.9 MX 0.0  UWNPI
+    FAKI  IA    2.6 236  P       11:41:24.1   6.4 AX 0.0  FAKI 
+    FAKI  IA    2.6 236  Pg      11:41:18.1  -7.3 MX 0.0  FAKI 
+    SWI   IA    3.2 281  P       11:41:27.5   1.1 AX 0.0  SWI  
+    SWI   IA    3.2 281  Pg      11:41:26.7 -10.7 MX 0.0  SWI  
+    SWI   IA    3.2 281  S       11:41:37.6 -28.0 MX 0.0  SWI  
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    ANAPI IA    0.5 286  MLv     3.58 -0.20    6.77827     
+    MBPI  IA    0.9 230  MLv     3.72 -0.06    5.35494     
+    SWPM  IA    1.1 309  MLv     3.57 -0.21    3.08128     
+    IWPI  IA    1.3 175  MLv     3.97  0.19    5.74853     
+    BATPI IA    1.4 222  MLv     3.75 -0.03    2.85918     
+    SUSPI IA    1.5  61  MLv     3.75 -0.03    2.58646     
+    BAKI  IA    1.7  81  MLv     3.68 -0.11    1.66222     
+    WWPI  IA    2.1 113  MLv     3.88  0.10    1.56337     
+    WANPI IA    2.2 154  MLv     3.88  0.10    1.51744     
+    UWNPI IA    2.3 150  MLv     4.05  0.27    1.85441     
+
